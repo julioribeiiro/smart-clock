@@ -1,6 +1,6 @@
 # Smart Clock
 
-Project using Node MCU, STM NUCLEO-L476RG bords, for the hardware, and ReactJS and Firebase for the softwares.
+Project using Node MCU, STM NUCLEO-L476RG boards, for the hardware, and ReactJS and Firebase for the softwares.
 It consists in creating a smart clock where you can add your tasks with day and hour, and when the time of your task
 come, the screen of the clock will show the task description and the buzzer conected with the NUCLEO will starts
 to beep until you click the button, when you do the buzzer stops beeping and the screen of the clock will show the

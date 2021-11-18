@@ -1,0 +1,10 @@
+stm32l4xx_ll_utils.c:773:17:UTILS_GetPLLOutputFrequency	0	static
+stm32l4xx_ll_utils.c:804:20:UTILS_PLL_IsBusy	0	static
+stm32l4xx_ll_utils.c:171:6:LL_Init1msTick	0	static
+stm32l4xx_ll_utils.c:187:6:LL_mDelay	8	static
+stm32l4xx_ll_utils.c:279:6:LL_SetSystemCoreClock	0	static
+stm32l4xx_ll_utils.c:293:13:LL_SetFlashLatency	0	static
+stm32l4xx_ll_utils.c:845:20:UTILS_EnablePLLAndSwitchSystem	16	static
+stm32l4xx_ll_utils.c:445:13:LL_PLL_ConfigSystemClock_MSI	16	static
+stm32l4xx_ll_utils.c:580:13:LL_PLL_ConfigSystemClock_HSI	16	static
+stm32l4xx_ll_utils.c:670:13:LL_PLL_ConfigSystemClock_HSE	24	static
